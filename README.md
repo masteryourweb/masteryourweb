@@ -3,8 +3,10 @@ I’m interested in learning Web Technologies, and since teaching is a great way
 I plan to make Youtube videos every now and then, and I will post some of my small projects here.
 If you have any suggestions/questions, please reach out! :) 
 
-Facebook: Master Your Web
+Facebook: Master Your Web<br>
+
 Email: alin@masteryourweb.com
+
 Youtube: MasterYourWeb
 
 
